@@ -5,7 +5,6 @@
 
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=reallyllaer)](https://github.com/reallyllaer)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=reallyllaer&show_icons=true&theme=radical)](https://github.com/reallyllaer)
 
 
 ### Hi there 👋
